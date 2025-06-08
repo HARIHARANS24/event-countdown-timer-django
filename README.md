@@ -1,11 +1,13 @@
-# 🎯 Countdown Django Project
+# 🎯 Event Countdown Timer Django
 
 A Django-based countdown application that helps users track and manage countdown timers for various events and deadlines.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/HARIHARANS24/event-countdown-timer-django)
 
 ## 📁 Project Structure
 
 ```
-📦 countdown-django-python
+📦 event-countdown-timer-django
  ┣ 📂 countdown
  ┃ ┣ 📂 countdown
  ┃ ┃ ┣ 📄 __init__.py
@@ -82,8 +84,8 @@ A Django-based countdown application that helps users track and manage countdown
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
-   cd countdown-django-python
+   git clone https://github.com/HARIHARANS24/event-countdown-timer-django.git
+   cd event-countdown-timer-django
    ```
 
 2. **Create a virtual environment**
@@ -146,10 +148,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- [HARIHARANS24](https://github.com/HARIHARANS24) - Initial work
 
 ## 🙏 Acknowledgments
 
 - Django Documentation
 - Django Community
-- All contributors who have helped shape this project #
+- All contributors who have helped shape this project
