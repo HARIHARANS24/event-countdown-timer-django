@@ -8,7 +8,7 @@ A Django-based countdown application that helps users track and manage countdown
  
 ```     
 📦 event-countdown-timer-django     
- ┣ 📂 countdown            
+ ┣ 📂 countdown             
  ┃ ┣ 📂 countdown             
  ┃ ┃ ┣ 📄 __init__.py              
  ┃ ┃ ┣ 📄 asgi.py                
@@ -155,6 +155,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Django Documentation
 - Django Community
 - All contributors who have helped shape this project
+
 
 
 
